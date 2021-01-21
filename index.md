@@ -1,7 +1,7 @@
 ## Welcome to the app developer Sergey Irgeshov's page
 
 
-## My Apps
+## My Apps:
 
 ![Text Tool](/icon1.png) | [Text Tool](http://apple.co/3iuJw0O)
 ![Randomizer](/icon2.png) | [Randomizer](https://apple.co/39OUSbT)
