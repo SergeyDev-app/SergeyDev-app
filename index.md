@@ -3,7 +3,6 @@
 
 ## My Apps
 
- | 
 ------------ | -------------
 ![Text Tool icon](/images/icon1.png) | [Text Tool](http://apple.co/3iuJw0O)
 ![Randomizer icon](/images/icon2.png) | [Randomizer](https://apple.co/39OUSbT)
