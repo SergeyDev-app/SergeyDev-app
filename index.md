@@ -11,4 +11,4 @@
 
 ### Support or Contact
 
-If you have any questions about my applications, then write to me at serhydev@yahoo.com.
+If you have any questions about my apps, then write to me at serhydev@yahoo.com.
