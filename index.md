@@ -1,4 +1,4 @@
-## Welcome to the app developer Sergey Irgeshov's page
+## Welcome to the app developer Sergey Irgeshov's page!
 
 
 ## My Apps:
