@@ -3,10 +3,10 @@
 
 ## My Apps
 
-![Text Tool](/images/icon1.png) | [Text Tool](http://apple.co/3iuJw0O)
-![Randomizer](/images/icon2.png) | [Randomizer](https://apple.co/39OUSbT)
-![Secret Calc](/images/icon3.png) | [Secret Calc](https://apple.co/2LHIuTh)
-![Map Ruler](/images/icon4.png) | [Map Ruler](http://apple.co/3cbhYMX)
+![Text Tool](/icon1.png) | [Text Tool](http://apple.co/3iuJw0O)
+![Randomizer](/icon2.png) | [Randomizer](https://apple.co/39OUSbT)
+![Secret Calc](/icon3.png) | [Secret Calc](https://apple.co/2LHIuTh)
+![Map Ruler](/icon4.png) | [Map Ruler](http://apple.co/3cbhYMX)
 
 
 ### Support or Contact
