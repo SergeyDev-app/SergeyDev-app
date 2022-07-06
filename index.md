@@ -3,7 +3,7 @@
 
  **My Apps:**
 
-#Text Tool
+## Text Tool
 
 **Privacy Policy**
 
@@ -64,7 +64,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2022-07-06
 
-#Map Ruler
+## Map Ruler
 
 **Privacy Policy**
 
@@ -125,7 +125,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2022-07-06
 
-#Randomizer
+## Randomizer
 
 **Privacy Policy**
 
@@ -186,7 +186,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2022-07-06
 
-##Secret Calculator Browser
+## Secret Calculator Browser
 
 **Privacy Policy**
 
@@ -248,7 +248,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 This policy is effective as of 2022-07-06
 
 
-#FF: Nickname Generator
+## FF: Nickname Generator
 
 **Privacy Policy**
 
@@ -309,7 +309,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2022-07-06
 
-#Dog Breeds
+## Dog Breeds
 
 **Privacy Policy**
 
