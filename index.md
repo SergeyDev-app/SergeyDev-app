@@ -1,9 +1,9 @@
-# Welcome to the app developer Sergey Irgeshov's page!
+**Welcome to the app developer Sergey Irgeshov's page!**
 
 
-# My Apps:
+ **My Apps:**
 
-### Text Tool
+#Text Tool
 
 **Privacy Policy**
 
@@ -64,7 +64,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2022-07-06
 
-###Map Ruler
+#Map Ruler
 
 **Privacy Policy**
 
@@ -125,7 +125,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2022-07-06
 
-###Randomizer
+#Randomizer
 
 **Privacy Policy**
 
@@ -248,7 +248,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 This policy is effective as of 2022-07-06
 
 
-###FF: Nickname Generator
+#FF: Nickname Generator
 
 **Privacy Policy**
 
@@ -309,7 +309,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 
 This policy is effective as of 2022-07-06
 
-###Dog Breeds
+#Dog Breeds
 
 **Privacy Policy**
 
@@ -372,6 +372,6 @@ This policy is effective as of 2022-07-06
 
 
 
-### Support or Contact
+## Support or Contact
 
 If you have any questions about my apps, then write to me at serhydev@yahoo.com.
