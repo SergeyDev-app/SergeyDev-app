@@ -371,7 +371,7 @@ I may update our Privacy Policy from time to time. Thus, you are advised to revi
 This policy is effective as of 2022-07-06
 
 
-**Privacy Policy**
+## Cat Breeds
 
 Sergey Irgeshov built the Cat Breeds app as [open source/free/freemium/ad-supported/commercial] app. This SERVICE is provided by Sergey Irgeshov at no cost and is intended for use as is.
 
